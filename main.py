@@ -1,3 +1,11 @@
+# Extra features exceeding the minimum challenge criteria:
+# Support for floating point numbers
+# Checks user input for correctness
+# Returns intersecting points
+# Supports intersections with 3D lines and cylinders
+# Allows line points to be inside the circle or cylinder
+# Supports intersections for line segments, not just infinitely long lines
+
 import math
 from decimal import Decimal, InvalidOperation
 
